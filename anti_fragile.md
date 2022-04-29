@@ -1,4 +1,4 @@
-![cover](https://img1.doubanio.com/view/subject/l/public/s27196248.jpg)
+![cover](https://img1.doubanio.com/view/subject/s/public/s27196248.jpg)
 
     作者: [美] 纳西姆·尼古拉斯·塔勒布 
     出版社: 中信出版社 
