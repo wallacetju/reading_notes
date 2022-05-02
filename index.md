@@ -1,4 +1,8 @@
 #### 一些思考碎片:
+* [正念初识](mindful_into.md)
+* [冥想](lean_and_meditation.md)
+* [关于大学](my_college.md)
+* [random thoughts about freedom](about_freedom.md)
 
 
 #### Reading Notes:
