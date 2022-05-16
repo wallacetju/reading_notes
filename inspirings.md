@@ -4,3 +4,4 @@
 
 * Steve Jobs on Consulting vs Manufactoring:
   * ("like having a picture of food on the wall...but never having tasted it.")[https://www.youtube.com/watch?v=-c4CNB80SRc]
+
