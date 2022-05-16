@@ -1,3 +1,5 @@
+### Reading Plan:
+* [反脆弱](anti_fragile.md)
 
 ### Reading Notes:
 * 一些有启发的采访或视频: [inspiring notes](inspirings.md)
