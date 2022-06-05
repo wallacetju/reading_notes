@@ -5,16 +5,20 @@
 
 
 ### Reading Notes:
-* 一些有启发的采访或视频: [inspiring notes](inspirings.md)
+* 一些有启发的采访或视频: [inspiring notes](articles/inspirings.md)
 
 * 关于"爱自己和自我接纳"：
     我现在相信你爱别人的深度没办法超过爱自己的深度；而你的勇气也没有办法超越自我的接纳程度。
-  * [如何成为不完美主义者](imperfectism.md)
+  * [如何成为不完美主义者](books/imperfectism.md)
       * 这本书是能改善我生活一本书，很多时候生活停滞或者阻尼，并非我们对自己不够严苛，而是内心的完美主义成了我们的枷锁。
   	* 虽然是一本工具书，但是底层触碰到的是很深刻的自我接纳	
+  * [活出乐观的自己](books/learned_optimistism.md)
+      *  
+
+
   * [Self Compassion]()
   	* 这本书是教我爱自己和自我接纳的入门书。我们是容易害怕的，很多时候这种恐惧是包装在一些看似合理甚至证明的行为之下的。
-  * [被讨厌的勇气]()
+  * [被讨厌的勇气](books/courage.md)
   	* 名字就知道要自我接纳；另一个重要的概念，"课题分离"
   * [成长型思维]()
 	
@@ -24,20 +28,20 @@
   * [清醒的活]()
 
 * Investment:
-  * [Unconventional Success](unconventional_success.md)
+  * [Unconventional Success](books/unconventional_success.md)
     * 这本书是值得读若干遍的，我希望把它作为我投资的基石书籍。 
 
   * 塔勒布三部曲:
     * [随机漫步的傻瓜]()
-    * [反脆弱](anti_fragile.md)
+    * [反脆弱](books/anti_fragile.md)
       * 有人说一定要读那种能劈开自己脑袋里的冰山的书，这本书对我来说就是。作者不是一个循规蹈矩的人，他的思想和他的人一样。里面有很多有创见的对我很有启发的观点，比如“先有实践再有理论和经验，而不是相反”，比如“概率的不对称性”，我想这会帮助我凿开脑袋中的冰山 
 
 * Not categories yet:
-  * [最重要的事只有一件](the_one_thing.md)
+  * [最重要的事只有一件](books/the_one_thing.md)
     * 书名是畅销书，但是内容却很有启发性，这可以简化你的生活  
   
 ### 一些思考碎片:
-* [正念初识](mindful_into.md)
-* [冥想](lean_and_meditation.md)
-* [关于大学](my_college.md)
-* [random thoughts about freedom](about_freedom.md) 
+* [正念初识](articles/mindful_into.md)
+* [冥想](articles/lean_and_meditation.md)
+* [关于大学](articles/my_college.md)
+* [random thoughts about freedom](articles/about_freedom.md) 
