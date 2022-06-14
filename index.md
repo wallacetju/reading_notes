@@ -1,8 +1,10 @@
 ### Journals:
-[5/15](journals/2022_5_15.md)
-[5/16](journals/2022_5_16.md)
-[5/21](journals/2022_5_21.md)
+* [5/15](journals/2022_5_15.md)
+* [5/16](journals/2022_5_16.md)
+* [5/21](journals/2022_5_21.md)
 
+### Finance:
+* [My Stocks](articles/my_stocks.md)
 
 ### Reading Notes:
 * 一些有启发的采访或视频: [inspiring notes](articles/inspirings.md)
