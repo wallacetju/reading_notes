@@ -1,3 +1,9 @@
+### 一些思考碎片:
+* [正念初识](articles/mindful_into.md)
+* [冥想](articles/lean_and_meditation.md)
+* [关于大学](articles/my_college.md)
+* [random thoughts about freedom](articles/about_freedom.md) 
+* [安全感](articles/safety.md)
 
 ### Reading Notes:
 * 一些有启发的采访或视频: [inspiring notes](articles/inspirings.md)
@@ -24,11 +30,7 @@
 * Not categories yet:
   * [最重要的事只有一件](books/the_one_thing.md): 书名是畅销书，但是内容却很有启发性，这可以简化你的生活  
   
-### 一些思考碎片:
-* [正念初识](articles/mindful_into.md)
-* [冥想](articles/lean_and_meditation.md)
-* [关于大学](articles/my_college.md)
-* [random thoughts about freedom](articles/about_freedom.md) 
+
 
 ### Finance:
 * [My Stocks](articles/my_stocks.md)
